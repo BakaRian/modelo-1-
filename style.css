@@ -218,20 +218,6 @@ div.video{
     padding-bottom: 60%;
     position: relative;
 }
-div.video > iframe{
-    position: absolute;
-    top: 5%;
-    left: 5%;
-    width: 90%;
-    height: 90%;
-}
-.txtCanais {
-    background-color: var(--cor11);
-    border-radius: 10px;
-    padding: 5px;
-    color: var(--cor13);
-    text-decoration: none;
-}
 
 .ttpec {
     background-image: radial-gradient(circle, var(--cor8), var(--cor2), var(--cor5), var(--cor5), var(--cor4));
